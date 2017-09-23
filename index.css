@@ -1,0 +1,17 @@
+.top-bar{
+  position: absolute;
+  margin: 0 145px;
+}
+
+.top-bar li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.top-bar ul li img{
+  width: 100px;
+}
+
+.hero img{
+  width: 100%;
+}
